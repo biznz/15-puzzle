@@ -3,8 +3,6 @@
 
 Java implementation of search algorithms solving a sliding puzzle 
 
-https://en.wikipedia.org/wiki/15_puzzle
-
 ## Implemented algorithms:
   - Uninformed Search
     - Depth First Search 
@@ -18,4 +16,6 @@ https://en.wikipedia.org/wiki/15_puzzle
 Assignment from [AI course](http://www.dcc.fc.up.pt/~ines/aulas/1718/IA/t1.pdf)
 
 [Artificial Intelligence a Modern Approach](http://aima.cs.berkeley.edu/)
+
+[15-puzzle](https://en.wikipedia.org/wiki/15_puzzle)
 
