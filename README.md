@@ -20,7 +20,7 @@ output: - A set of legal moves on 0 piece to achieve the configuration - 1 2 3 4
 ### References 
 Assignment from [AI course](http://www.dcc.fc.up.pt/~ines/aulas/1718/IA/t1.pdf)
 
-Support readings [Artificial Intelligence a Modern Approach](http://aima.cs.berkeley.edu/)
+Support reading [Artificial Intelligence a Modern Approach](http://aima.cs.berkeley.edu/)
 
 Problem description [15-puzzle](https://en.wikipedia.org/wiki/15_puzzle)
 
