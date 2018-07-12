@@ -3,6 +3,10 @@
 
 Java implementation of search algorithms solving a sliding puzzle 
 
+## Interface
+input: - A puzzle table fed as string - 1 2 3 4 5 6 8 12 13 9 0 7 14 11 10 15
+output: - A set of legal moves on the 0 piece to achieve the configuration - 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 0
+
 ## Implemented algorithms:
   - Uninformed Search
     - Depth First Search 
@@ -15,7 +19,7 @@ Java implementation of search algorithms solving a sliding puzzle
 ### References 
 Assignment from [AI course](http://www.dcc.fc.up.pt/~ines/aulas/1718/IA/t1.pdf)
 
-[Artificial Intelligence a Modern Approach](http://aima.cs.berkeley.edu/)
+Support readings [Artificial Intelligence a Modern Approach](http://aima.cs.berkeley.edu/)
 
-[15-puzzle](https://en.wikipedia.org/wiki/15_puzzle)
+Problem description [15-puzzle](https://en.wikipedia.org/wiki/15_puzzle)
 
